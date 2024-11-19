@@ -1,1 +1,1 @@
-Cadastros de imó  do oneBitCode
+Cadastros de imóveis do oneBitCode
